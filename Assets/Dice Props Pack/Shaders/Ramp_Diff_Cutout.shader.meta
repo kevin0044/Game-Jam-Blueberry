@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8246e145bec533b448a3ebed8e2c0f1a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7108
+  packageName: Dice Props Pack
+  packageVersion: 1.05
+  assetPath: Assets/Dice Props Pack/Shaders/Ramp_Diff_Cutout.shader
+  uploadId: 53246

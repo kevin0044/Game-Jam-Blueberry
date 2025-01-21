@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3851252196545444873}
   m_Layer: 0
   m_Name: Debris2
-  m_TagString: Untagged
+  m_TagString: Debris
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -149,4 +149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7906f0feaf4c4a84d8c11e74052879a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  debrisRemove: {fileID: 6412742749156228469}
+  teleportPosition: {x: 0, y: 0, z: 0}
+  PlayerTag: Player
+  gameOverScreen: {fileID: 0}

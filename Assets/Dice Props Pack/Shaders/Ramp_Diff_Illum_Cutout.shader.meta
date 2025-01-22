@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fb1b07cc81e94044b8bdefb7f8526251
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7108
+  packageName: Dice Props Pack
+  packageVersion: 1.05
+  assetPath: Assets/Dice Props Pack/Shaders/Ramp_Diff_Illum_Cutout.shader
+  uploadId: 53246

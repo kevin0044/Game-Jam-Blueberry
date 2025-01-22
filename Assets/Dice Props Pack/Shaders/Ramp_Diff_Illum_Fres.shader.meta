@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 824821d64e870de4dbe83695f992c629
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7108
+  packageName: Dice Props Pack
+  packageVersion: 1.05
+  assetPath: Assets/Dice Props Pack/Shaders/Ramp_Diff_Illum_Fres.shader
+  uploadId: 53246

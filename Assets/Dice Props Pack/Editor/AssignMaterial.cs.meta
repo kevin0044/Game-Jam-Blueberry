@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38f0493335f52444b8692c84f81fa0bd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7108
+  packageName: Dice Props Pack
+  packageVersion: 1.05
+  assetPath: Assets/Dice Props Pack/Editor/AssignMaterial.cs
+  uploadId: 53246

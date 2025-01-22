@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 97c991275e1af664d8cb0894e14bf0e1
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7108
+  packageName: Dice Props Pack
+  packageVersion: 1.05
+  assetPath: Assets/Dice Props Pack/Shaders/RampLitOutline.shader
+  uploadId: 53246
